@@ -77,6 +77,21 @@ A comprehensive batch-processing GUI for 2D gridded potential-field data. All op
 | Surfer (optional) | Golden Software Surfer 13+ for advanced gridding |
 | Memory | 8 GB recommended |
 
+
+## Screenshots
+
+![Full UI](screenshots/full_ui.png)
+*Complete GUI layout — function tree (left), parameter panel (center), preview area (right)*
+
+![UI Preview](screenshots/ui_preview.png)
+*Heatmap preview with interactive colormap selection (19 colormaps)*
+
+![Workflow](screenshots/workflow.png)
+*28-module processing pipeline — from gridding to layer-stack export*
+
+![Source Model Figure](screenshots/fig_source_model.png)
+*Euler deconvolution source model illustration*
+
 ## Documentation
 
 | Document | Content |
